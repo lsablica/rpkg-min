@@ -19,7 +19,7 @@ a number
 }
 \description{
 A really good adding/subtracting function.
-If Carlsberg made adding functions, they'd make a function like this.
+If Carlsberg made adding functions, they'd make a function like this...
 
 A work of pure genius.
 }
